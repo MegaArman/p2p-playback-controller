@@ -1,7 +1,7 @@
 # p2p-playback-controller
 
 ## resources
-quick Java socket tutorial - https://www.youtube.com/watch?v=g3ohGP4QJKY
+quick Java socket tutorial - https://www.youtube.com/watch?v=-xKgxqG411c
 
 Java standards compliant WebSocket - https://www.pegaxchange.com/2018/01/28/websocket-server-java/
 
